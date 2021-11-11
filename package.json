@@ -1,0 +1,20 @@
+{
+  "name": "@darrell.bleakley/platform-app",
+  "version": "0.0.1",
+  "description": "A Local PLatform-syncronized TWR Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing My Platform TWR Application\"",
+    "build": "echo \"Building My Platform TWR Application\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbleakley/platform-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbleakley/platform-app/issues"
+  },
+  "homepage": "https://github.com/dbleakley/platform-app#readme"
+}
